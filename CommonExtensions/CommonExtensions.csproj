@@ -8,7 +8,7 @@
     <Authors>Martin Cutillo-Rigby</Authors>
     <Company>Martin Cutillo-Rigby</Company>
     <Product>CutilloRigby.Extensions</Product>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Description>Common Extension Methods</Description>
     <Copyright>Martin Cutillo-Rigby 2020</Copyright>
     <IsPackable>true</IsPackable>
